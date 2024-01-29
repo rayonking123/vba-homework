@@ -1,4 +1,3 @@
-newgpt
 
 Sub Column_names()
     Dim ws As Worksheet
